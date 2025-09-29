@@ -7,6 +7,12 @@ This repository serves as **file storage** for all `.bmp` splash screens designe
 
 ---
 
+## Preview
+
+![Website Preview](./image.png)
+
+---
+
 ## About
 - All splash screens are stored here in **`.bmp` format**.
 - The companion website ([nymtra.github.io/splashes](https://nymtra.github.io/splashes)) provides an easy way to preview them before downloading.
